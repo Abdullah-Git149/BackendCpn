@@ -1,0 +1,27 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coupon_3069.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fcm-node": "^1.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.7.6",
+    "nodemon": "^2.0.19",
+    "stripe": "^10.5.0"
+  }
+}
